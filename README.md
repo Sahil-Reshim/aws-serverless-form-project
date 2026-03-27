@@ -28,12 +28,6 @@ User → Flask App → API Gateway → AWS Lambda → Response
 
 ---
 
-## 📷 Architecture Diagram
-
-![Architecture](architecture.png)
-
----
-
 ## ▶️ How to Run Locally
 
 ```bash
